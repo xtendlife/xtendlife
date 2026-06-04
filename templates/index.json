@@ -12,13 +12,43 @@
     "media_hero_slider_VC34DA": {
       "type": "media-hero-slider",
       "blocks": {
+        "slide_7pwDhY": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/XL_Mens_Health_Month_HP_LAND_Desk_1920x685_72d0a329-70fa-448a-afcc-41b6c082dbf8.jpg",
+            "image_tablet": "shopify://shop_images/XL_Mens_Health_Month_HP_LAND_Tablet_1500x1377_fc49f71a-0926-4863-b320-c84f2b6639f1.jpg",
+            "mobile_inline_image": "shopify://shop_images/XL_Mens_Health_Month_HP_LAND_Mob-INLINE_448x323_d5a302e2-9fbb-4843-a6b1-100e0c709142.jpg",
+            "mobile_inline_bg": "#ffffff",
+            "video_mp4": "",
+            "video_adapt_ratio": 57,
+            "text_color": "#1f1946",
+            "text_color_mobile": "#1f1946",
+            "heading": "Men’s Health Month",
+            "heading_size": "h1",
+            "heading_max_width": 600,
+            "text": "Support for men who aren’t ready to slow down.",
+            "text_style": "body",
+            "subtitle_font_size_desktop": 24,
+            "subtitle_font_size_mobile": 18,
+            "text_max_width": 350,
+            "small_text": "",
+            "small_text_font_size_desktop": 12,
+            "small_text_font_size_mobile": 10,
+            "button_label_1": "Shop now",
+            "button_link_1": "shopify://collections/mens-health",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
         "slide_Htr7XN": {
           "type": "slide",
           "name": "Slide-TB HP HERO Banner",
           "settings": {
-            "image": "shopify://shop_images/HP_TB_Banner2_1920x685_9eb4ad0e-942e-40ef-a64b-a47ec486d8d7.png",
-            "image_tablet": "shopify://shop_images/HP_TB_Tablet2_1500x1377_1ecf9af6-21f7-441a-944e-bfe82bb3afeb.png",
-            "mobile_inline_image": "shopify://shop_images/HP_TB_Mob-INLINE_448x323_8283b076-7daf-404f-abe6-736f91e8f1e0.png",
+            "image": "shopify://shop_images/XL_TBP_HP_LAND_Desk_1920x685_copy.jpg",
+            "image_tablet": "shopify://shop_images/XL_TPB_HP_LAND_Tablet_1500x1377_3c75671b-4c73-4cb1-8a95-6c4ad74e7862.jpg",
+            "mobile_inline_image": "shopify://shop_images/XL_TPB_HP_LAND_Mob-INLINE_448x323_b3eabddf-c8e8-4c2f-9c4f-0d46d10e0543.jpg",
             "mobile_inline_bg": "#ffffff",
             "video_mp4": "",
             "video_adapt_ratio": 30,
@@ -72,37 +102,6 @@
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": true
-          }
-        },
-        "slide_7pwDhY": {
-          "type": "slide",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/XL_Free_Shipping_HP_LAND_Desk_1920x685_Compressed.jpg",
-            "image_tablet": "shopify://shop_images/XL_Free_Shipping_HP_LAND_Tablet_1500x1377_Compressed.jpg",
-            "mobile_inline_image": "shopify://shop_images/XL_Free_Shipping_HP_LAND_Mob-INLINE_448x323_Compressed.jpg",
-            "mobile_inline_bg": "#ffffff",
-            "video_mp4": "",
-            "video_adapt_ratio": 57,
-            "text_color": "#1f1946",
-            "text_color_mobile": "#1f1946",
-            "heading": "Free Shipping.<br>Better Wellness Starts Here.",
-            "heading_size": "h1",
-            "heading_max_width": 600,
-            "text": "No code. No minimum spend.",
-            "text_style": "body",
-            "subtitle_font_size_desktop": 24,
-            "subtitle_font_size_mobile": 18,
-            "text_max_width": 350,
-            "small_text": "Ends Tuesday.",
-            "small_text_font_size_desktop": 12,
-            "small_text_font_size_mobile": 10,
-            "button_label_1": "Shop now",
-            "button_link_1": "shopify://collections/all",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
           }
         },
         "slide_jj763f": {
@@ -325,9 +324,9 @@
         }
       },
       "block_order": [
+        "slide_7pwDhY",
         "slide_Htr7XN",
         "slide_Bwck6W",
-        "slide_7pwDhY",
         "slide_jj763f",
         "slide_AVhUBB",
         "slide_3FrQKe",
