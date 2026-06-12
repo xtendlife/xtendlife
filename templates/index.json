@@ -76,6 +76,7 @@
         "slide_jj763f": {
           "type": "slide",
           "name": "Slide_O3 Prem_Promo",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/XL_Mens_Health_Month_NZ_AU_HP_LAND_Desk_1920x685_copy.jpg",
             "image_tablet": "shopify://shop_images/XL_Mens_Health_Month_NZ_AU_HP_LAND_Tablet_1500x1377_c5e8d17d-36fe-4094-935a-927c6dcfa8e6.jpg",
