@@ -73,6 +73,37 @@
             "button_style_secondary_2": false
           }
         },
+        "slide_jj763f": {
+          "type": "slide",
+          "name": "Slide_O3 Prem_Promo",
+          "settings": {
+            "image": "shopify://shop_images/XL_Mens_Health_Month_NZ_AU_HP_LAND_Desk_1920x685_copy.jpg",
+            "image_tablet": "shopify://shop_images/XL_Mens_Health_Month_NZ_AU_HP_LAND_Tablet_1500x1377_c5e8d17d-36fe-4094-935a-927c6dcfa8e6.jpg",
+            "mobile_inline_image": "shopify://shop_images/XL_Mens_Health_Month_NZ_AU_HP_LAND_Mob-INLINE_448x323_16cef9be-7c92-4dd0-9003-1bf0d2f35981.jpg",
+            "mobile_inline_bg": "#ffffff",
+            "video_mp4": "",
+            "video_adapt_ratio": 57,
+            "text_color": "#1f1946",
+            "text_color_mobile": "#1f1946",
+            "heading": "Celebrate Men's Health Week",
+            "heading_size": "h1",
+            "heading_max_width": 500,
+            "text": "Support your wellbeing with 20% off selected bundles. Use code MENS20.",
+            "text_style": "body",
+            "subtitle_font_size_desktop": 24,
+            "subtitle_font_size_mobile": 18,
+            "text_max_width": 260,
+            "small_text": "",
+            "small_text_font_size_desktop": 15,
+            "small_text_font_size_mobile": 11,
+            "button_label_1": "Shop Bundles",
+            "button_link_1": "shopify://collections/all-bundles",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        },
         "slide_Bwck6W": {
           "type": "slide",
           "disabled": true,
@@ -102,38 +133,6 @@
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": true
-          }
-        },
-        "slide_jj763f": {
-          "type": "slide",
-          "name": "Slide_O3 Prem_Promo",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/Om-3-Prem-Banner-8.png",
-            "image_tablet": "shopify://shop_images/Omega3-Tablet_1500x1377_4e1b3f9a-1ebb-4ae0-967c-5457aa86dc61.png",
-            "image_mobile": "shopify://shop_images/Omega3_Mob_1100x1291_95e8a356-f376-4a97-95f0-15b101da97e6.png",
-            "mobile_inline_bg": "#ffffff",
-            "video_mp4": "",
-            "video_adapt_ratio": 57,
-            "text_color": "#1f1946",
-            "text_color_mobile": "",
-            "heading": "Support daily wellness",
-            "heading_size": "h1",
-            "heading_max_width": 500,
-            "text": "Buy 2 Omega 3/DHA Plus, get 1 free*.",
-            "text_style": "body",
-            "subtitle_font_size_desktop": 24,
-            "subtitle_font_size_mobile": 18,
-            "text_max_width": 260,
-            "small_text": "Add 3 to your cart and enter code <strong>BONUSGIFT</strong> at checkout.",
-            "small_text_font_size_desktop": 15,
-            "small_text_font_size_mobile": 11,
-            "button_label_1": "Shop Now",
-            "button_link_1": "shopify://products/omega-3-dha-plus",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
           }
         },
         "slide_AVhUBB": {
@@ -326,8 +325,8 @@
       "block_order": [
         "slide_7pwDhY",
         "slide_Htr7XN",
-        "slide_Bwck6W",
         "slide_jj763f",
+        "slide_Bwck6W",
         "slide_AVhUBB",
         "slide_3FrQKe",
         "slide_YN4nGz",
