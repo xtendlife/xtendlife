@@ -16,20 +16,20 @@
     "media_hero_slider_VC34DA": {
       "settings": {},
       "blocks": {
-        "slide_Bwck6W": {
-          "disabled": false,
-          "settings": {
-            "small_text": "Friday 29th May, 12am BST"
-          }
-        },
         "slide_jj763f": {
-          "disabled": false,
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/XL_Mens_Health_Month_US_UK_HP_LAND_Desk_1920x685_copy.jpg",
             "image_tablet": "shopify://shop_images/XL_Mens_Health_Month_US_UK_HP_LAND_Tablet_1500x1377_541d0538-1d2f-4854-9900-59cbdec4d85a.jpg",
             "mobile_inline_image": "shopify://shop_images/XL_Mens_Health_Month_US_UK_HP_LAND_Mob-INLINE_448x323_49be9b82-a08b-4fa1-9111-8a981d5c0ff1.jpg",
             "heading": "Treat Yourself This Father's Day",
             "text": "Support your wellbeing with 20% off selected wellness bundles. Use code MENS20."
+          }
+        },
+        "slide_Bwck6W": {
+          "disabled": true,
+          "settings": {
+            "small_text": "Friday 29th May, 12am BST"
           }
         }
       }
