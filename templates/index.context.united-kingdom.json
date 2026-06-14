@@ -17,7 +17,7 @@
       "settings": {},
       "blocks": {
         "slide_jj763f": {
-          "disabled": true,
+          "disabled": false,
           "settings": {
             "image": "shopify://shop_images/XL_Mens_Health_Month_US_UK_HP_LAND_Desk_1920x685_copy.jpg",
             "image_tablet": "shopify://shop_images/XL_Mens_Health_Month_US_UK_HP_LAND_Tablet_1500x1377_541d0538-1d2f-4854-9900-59cbdec4d85a.jpg",
@@ -31,6 +31,10 @@
           "settings": {
             "small_text": "Friday 29th May, 12am BST"
           }
+        },
+        "slide_7pwDhY": {
+          "disabled": true,
+          "settings": {}
         }
       }
     },
