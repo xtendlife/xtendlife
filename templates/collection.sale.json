@@ -24,18 +24,18 @@
         "slide_fTk4Hh": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/Landing-Page-Banner_1b.png",
-            "image_tablet": "shopify://shop_images/Landing-Page_Tablet_1c.png",
-            "image_mobile": "shopify://shop_images/Landing-Page_Mob_1b.png",
+            "image": "shopify://shop_images/XL_Mens_Health_Month_NZ_AU_LAND_Desk_2000x750_58c78d1a-0a9d-4c93-9f71-e361392e7c1c.jpg",
+            "image_tablet": "shopify://shop_images/XL_Mens_Health_Month_NZ_AU_LAND_Tablet_950x750_dddb9a12-51d7-4b7b-846e-b74944a380c9.jpg",
+            "mobile_inline_image": "shopify://shop_images/XL_Mens_Health_Month_NZ_AU_HP_LAND_Mob-INLINE_448x323_16cef9be-7c92-4dd0-9003-1bf0d2f35981.jpg",
             "mobile_inline_bg": "#f4f8fb",
             "video_mp4": "",
             "video_adapt_ratio": 100,
             "text_color": "#1f1946",
             "text_color_mobile": "#ffffff",
-            "heading": "The Mother's Day Gift Guide",
+            "heading": "Celebrate Men's Health Week",
             "heading_size": "h1",
             "heading_max_width": 500,
-            "text": "Find the right wellness gift for every type of mum.",
+            "text": "Support your wellbeing with 20% off selected bundles. Use code MENS20.",
             "text_style": "body",
             "subtitle_font_size_desktop": 24,
             "subtitle_font_size_mobile": 18,
@@ -80,6 +80,7 @@
       "blocks": {
         "tab_HArBQh": {
           "type": "tab",
+          "disabled": true,
           "settings": {
             "label": "Gifts for Mum",
             "collection": "mothersday",
@@ -97,12 +98,11 @@
         },
         "tab_hNQHfA": {
           "type": "tab",
-          "disabled": true,
           "settings": {
             "label": "Bundles",
-            "collection": "all-bundles",
+            "collection": "sale",
             "limit": 15,
-            "view_all": true,
+            "view_all": false,
             "static_enable": true,
             "static_position": "first",
             "static_full_row": false,
@@ -140,7 +140,7 @@
       "custom_css": [],
       "name": "Promo Collection Tabs",
       "settings": {
-        "title": "A little something for the one who does everything.",
+        "title": "Build Your Wellness Stack",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
