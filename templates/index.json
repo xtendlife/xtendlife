@@ -15,6 +15,7 @@
         "slide_jj763f": {
           "type": "slide",
           "name": "Slide_O3 Prem_Promo",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/XL_Mens_Health_Month_NZ_AU_HP_LAND_Desk_1920x685_copy.jpg",
             "image_tablet": "shopify://shop_images/XL_Mens_Health_Month_NZ_AU_HP_LAND_Tablet_1500x1377_c5e8d17d-36fe-4094-935a-927c6dcfa8e6.jpg",
@@ -45,7 +46,6 @@
         },
         "slide_7pwDhY": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/XL_Mens_Health_Month_HP_LAND_Desk_1920x685_72d0a329-70fa-448a-afcc-41b6c082dbf8.jpg",
             "image_tablet": "shopify://shop_images/XL_Mens_Health_Month_HP_LAND_Tablet_1500x1377_fc49f71a-0926-4863-b320-c84f2b6639f1.jpg",
@@ -77,7 +77,6 @@
         "slide_Htr7XN": {
           "type": "slide",
           "name": "Slide-TB HP HERO Banner",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/XL_TBP_HP_LAND_Desk_1920x685_copy.jpg",
             "image_tablet": "shopify://shop_images/XL_TPB_HP_LAND_Tablet_1500x1377_3c75671b-4c73-4cb1-8a95-6c4ad74e7862.jpg",
