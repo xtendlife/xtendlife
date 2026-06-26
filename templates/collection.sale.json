@@ -24,18 +24,18 @@
         "slide_fTk4Hh": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/XL_Mens_Health_Month_NZ_AU_LAND_Desk_2000x750_58c78d1a-0a9d-4c93-9f71-e361392e7c1c.jpg",
-            "image_tablet": "shopify://shop_images/XL_Mens_Health_Month_NZ_AU_LAND_Tablet_950x750_dddb9a12-51d7-4b7b-846e-b74944a380c9.jpg",
-            "mobile_inline_image": "shopify://shop_images/XL_Mens_Health_Month_NZ_AU_HP_LAND_Mob-INLINE_448x323_16cef9be-7c92-4dd0-9003-1bf0d2f35981.jpg",
+            "image": "shopify://shop_images/XL_June_Promo_LAND_Desk_2000x750_842cea03-bc8f-4329-902a-6c681d385408.jpg",
+            "image_tablet": "shopify://shop_images/XL_June_Promo_LAND_Tablet_950x750_b8905857-0a21-42a1-9a27-e52d3391bb78.jpg",
+            "image_mobile": "shopify://shop_images/XL_June_Promo_HP_LAND_Mob_1100x1291_dad97d63-ae1f-4a8d-8dc1-9193c3e4e5bf.jpg",
             "mobile_inline_bg": "#f4f8fb",
             "video_mp4": "",
             "video_adapt_ratio": 100,
             "text_color": "#1f1946",
             "text_color_mobile": "#ffffff",
-            "heading": "Celebrate Men's Health Week",
+            "heading": "Invest In You.",
             "heading_size": "h1",
             "heading_max_width": 500,
-            "text": "Support your wellbeing with 20% off selected bundles. Use code MENS20.",
+            "text": "Save 25% sitewide for a limited time. Use Code: FORYOU25",
             "text_style": "body",
             "subtitle_font_size_desktop": 24,
             "subtitle_font_size_mobile": 18,
@@ -80,12 +80,11 @@
       "blocks": {
         "tab_HArBQh": {
           "type": "tab",
-          "disabled": true,
           "settings": {
-            "label": "Gifts for Mum",
-            "collection": "mothersday",
-            "limit": 22,
-            "view_all": false,
+            "label": "Supplements",
+            "collection": "supplements",
+            "limit": 24,
+            "view_all": true,
             "static_enable": false,
             "static_position": "first",
             "static_full_row": false,
@@ -115,7 +114,6 @@
         },
         "tab_R46dJx": {
           "type": "tab",
-          "disabled": true,
           "settings": {
             "label": "Skincare",
             "collection": "skincare",
