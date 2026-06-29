@@ -97,9 +97,10 @@
         },
         "tab_hNQHfA": {
           "type": "tab",
+          "disabled": true,
           "settings": {
             "label": "Bundles",
-            "collection": "sale",
+            "collection": "all-bundles",
             "limit": 15,
             "view_all": false,
             "static_enable": true,
