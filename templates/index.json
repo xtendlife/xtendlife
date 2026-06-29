@@ -12,6 +12,36 @@
     "media_hero_slider_VC34DA": {
       "type": "media-hero-slider",
       "blocks": {
+        "slide_Bwck6W": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/XL_June_Promo_HP_LAND_Desk_1920x685_611df452-5b3a-4a3f-aed7-243a690bdf66.jpg",
+            "image_tablet": "shopify://shop_images/XL_June_Promo_HP_LAND_Tablet_1500x1377_1901ebae-fe81-403e-bf66-b676a066568b.jpg",
+            "image_mobile": "shopify://shop_images/XL_June_Promo_HP_LAND_Mob_1100x1291_dad97d63-ae1f-4a8d-8dc1-9193c3e4e5bf.jpg",
+            "mobile_inline_bg": "#ffffff",
+            "video_mp4": "",
+            "video_adapt_ratio": 30,
+            "text_color": "#1f1946",
+            "text_color_mobile": "#1f1946",
+            "heading": "Invest In You.",
+            "heading_size": "h1",
+            "heading_max_width": 500,
+            "text": "Save 25% sitewide for a limited time.",
+            "text_style": "body",
+            "subtitle_font_size_desktop": 24,
+            "subtitle_font_size_mobile": 18,
+            "text_max_width": 340,
+            "small_text": "Use Code: FORYOU25",
+            "small_text_font_size_desktop": 12,
+            "small_text_font_size_mobile": 10,
+            "button_label_1": "Shop Sale",
+            "button_link_1": "shopify://collections/sale",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": true
+          }
+        },
         "slide_jj763f": {
           "type": "slide",
           "name": "Slide_O3 Prem_Promo",
@@ -105,36 +135,6 @@
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
-          }
-        },
-        "slide_Bwck6W": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/XL_June_Promo_HP_LAND_Desk_1920x685_611df452-5b3a-4a3f-aed7-243a690bdf66.jpg",
-            "image_tablet": "shopify://shop_images/XL_June_Promo_HP_LAND_Tablet_1500x1377_1901ebae-fe81-403e-bf66-b676a066568b.jpg",
-            "image_mobile": "shopify://shop_images/XL_June_Promo_HP_LAND_Mob_1100x1291_dad97d63-ae1f-4a8d-8dc1-9193c3e4e5bf.jpg",
-            "mobile_inline_bg": "#ffffff",
-            "video_mp4": "",
-            "video_adapt_ratio": 30,
-            "text_color": "#1f1946",
-            "text_color_mobile": "#1f1946",
-            "heading": "Invest In You.",
-            "heading_size": "h1",
-            "heading_max_width": 500,
-            "text": "Save 25% sitewide for a limited time.",
-            "text_style": "body",
-            "subtitle_font_size_desktop": 24,
-            "subtitle_font_size_mobile": 18,
-            "text_max_width": 340,
-            "small_text": "Use Code: FORYOU25",
-            "small_text_font_size_desktop": 12,
-            "small_text_font_size_mobile": 10,
-            "button_label_1": "Shop Sale",
-            "button_link_1": "shopify://collections/sale",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": true
           }
         },
         "slide_AVhUBB": {
@@ -325,10 +325,10 @@
         }
       },
       "block_order": [
+        "slide_Bwck6W",
         "slide_jj763f",
         "slide_7pwDhY",
         "slide_Htr7XN",
-        "slide_Bwck6W",
         "slide_AVhUBB",
         "slide_3FrQKe",
         "slide_YN4nGz",
