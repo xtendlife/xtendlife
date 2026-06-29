@@ -121,6 +121,16 @@
             "row_content": "<ul><li>The 20% discount offer is available from 8:00 AM AEST on June 15, 2026 to 8:00 AM AEST on June 23, 2026, or until supplies last, whichever occurs first. </li><li>Receive 20% off the combined retail value of selected bundles when you use the discount code MENS20 in the Xtendlife online store. The discount is calculated from the full retail price of the individual products included in each bundle and does not apply to, or stack with, the standard 5% bundle discount.</li><li>The offer applies exclusively to the following bundles: Core Wellness Men's Premium, Core Wellness Men's Standard, Heart Health Bundle, Daily Care Bundle, Healthy Gut Bundle, Foundational Health Premium Pack for Men, and Kanapa Skin Essentials for Men.</li><li>If you return products purchased during the promotional period, the dollar value of the discounted products will be refunded. </li><li>To qualify, the discount code MENS20 must be entered in the discount code field at checkout on the Xtendlife website. </li><li>The discount code is valid for one use per customer. </li><li>The discount code cannot be applied retrospectively once an order has been completed and charged. </li><li>The offer cannot be applied to previous purchases and cannot be combined with any other special discounts, discount codes, promotions, or offers. Subscribe & Save members must place a new order through checkout to redeem the offer. </li><li>The discount code is not transferable and may not be resold or redeemed for cash. </li><li>The discount code will be invalid if any of these Terms and Conditions are violated. </li><li>Xtendlife reserves the right to modify, suspend, or terminate this promotion at any time without prior notice. </li></ul>",
             "page": ""
           }
+        },
+        "collapsible_row_zk94R": {
+          "type": "collapsible_row",
+          "disabled": false,
+          "settings": {
+            "heading": "25% off Promotion",
+            "icon": "none",
+            "row_content": "<ul><li>The 25% discount offer is available from 8:00 AM AEST June 30, 2026 to 8:00 AM AEST July 3, 2026 or until supplies last, whichever occurs first.  </li><li>Receive 25% off sitewide, excluding bundles, when you use the discount code FORYOU25 in the Xtendlife online store. </li><li>This offer excludes all bundles. </li><li>If you return your product purchased in the discount period, the dollar value of the discounted product will be refunded. </li><li>To qualify, the discount code must be entered on the Xtendlife website in the discount code field at checkout.  </li><li>The discount code is valid exclusively for one use per customer on the Xtendlife checkout.  </li><li>The discount code cannot be deducted retrospectively once the order has been completed and charged.  </li><li> The offer cannot be applied to previous purchases or be combined with other special discounts, discount codes or offers. Subscribe & Save members must place a new order through checkout. </li><li>The discount code is not transferable and may not be resold or redeemed for cash.  </li><li>The discount code will be invalid if any of the terms and conditions are violated.  </li></ul>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -147,7 +157,8 @@
         "collapsible_row_BhRFqE",
         "collapsible_row_w84xpn",
         "collapsible_row_dR3fV",
-        "collapsible_row_k6TfV"
+        "collapsible_row_k6TfV",
+        "collapsible_row_zk94R"
       ]
     }
   }
