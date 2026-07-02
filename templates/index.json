@@ -14,6 +14,7 @@
       "blocks": {
         "slide_Bwck6W": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/XL_June_Promo_HP_LAND_Desk_1920x685_611df452-5b3a-4a3f-aed7-243a690bdf66.jpg",
             "image_tablet": "shopify://shop_images/XL_June_Promo_HP_LAND_Tablet_1500x1377_1901ebae-fe81-403e-bf66-b676a066568b.jpg",
@@ -76,7 +77,6 @@
         },
         "slide_7pwDhY": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/XL_Mens_Health_Month_HP_LAND_Desk_1920x685_72d0a329-70fa-448a-afcc-41b6c082dbf8.jpg",
             "image_tablet": "shopify://shop_images/XL_Mens_Health_Month_HP_LAND_Tablet_1500x1377_fc49f71a-0926-4863-b320-c84f2b6639f1.jpg",
@@ -108,7 +108,6 @@
         "slide_Htr7XN": {
           "type": "slide",
           "name": "Slide-TB HP HERO Banner",
-          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/XL_TBP_HP_LAND_Desk_1920x685_copy.jpg",
             "image_tablet": "shopify://shop_images/XL_TPB_HP_LAND_Tablet_1500x1377_3c75671b-4c73-4cb1-8a95-6c4ad74e7862.jpg",
