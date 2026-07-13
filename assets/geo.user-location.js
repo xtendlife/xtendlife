@@ -40,7 +40,8 @@
     "52.90.216.115", //Crazy Egg
     "223.25.61.190", //Ken from Duma
     "103.172.167.10", // Duma web designer
-    "114.31.215.129" //Auckland office
+    "114.31.215.129", //Auckland office
+    "103.19.4.126" // MMD 2607
   ];
 
   // Get the domain for the corresponding country
